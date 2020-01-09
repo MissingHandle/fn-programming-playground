@@ -1,12 +1,18 @@
 /**
 So what the fuck is a monad anwyay?
 
-I've gotten far enough that I've used things that I have been told are monads,
-like "The Either Monad", and I've understand how to use them. my descriptive definition
-is that a Monad seems to be like a box, inside of which you will find one of two things.
-then, you can imbue meaning to those two things as the programmer sees fit.
+I've gotten far enough in software development and functional programming that I've used things
+that I have been told are monads, like "The Either Monad", and I've understood how to use them.
+I can write code that uses Either.  But at a certain point down the functional programming
+rabit hole, my understanding falls apart, and I want to change that.
 
-but as of time of writing, I can't really define what a monad is.
+This repo is about studying category theory enough that I can build my functiona programming
+skills on a rock solid foundation.
+
+My descriptive definition of a Monad is that a Monad seems to be like a box, inside of which you
+will find one of two things. Then, you can imbue meaning to those two things as you see fit.
+
+but as of time of writing, I can't really define what a monad is, in the formal sense.
 
 What I can say right now, is that it seems that in order to be a monad,
 something has to first be "a Functor".
