@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+set -e
+
+npm run tsc
+node src/index.js

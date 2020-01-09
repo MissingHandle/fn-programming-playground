@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+rm -rf dst
+rm -rf node_modules
+
+bin/setup
