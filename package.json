@@ -2,7 +2,7 @@
   "name": "fn-programming-playground",
   "version": "0.0.1",
   "description": "Playground / Tutorial for Functional Programming and Category Theory",
-  "main": "index.js",
+  "main": "dst/index.js",
   "scripts": {
     "start": "node dst/index.js",
     "format": "prettier --write 'src/**/*.ts'",
